@@ -3,7 +3,6 @@
 - **Difficulty**:
 - **Author**:
 - **Date**:
-- **Tag**:
 
 ---
 
